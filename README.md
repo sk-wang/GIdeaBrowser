@@ -9,6 +9,7 @@
 <!-- Plugin description -->
 Embedded Web Browser in a ToolWindow. 
 Watch YouTube coding session directly in the IDE.
+Set the main page at https://duckduckgo.com/
 
 The goal of this project is to add more browser capability inside the IDE. 
 <!-- Plugin description end -->
