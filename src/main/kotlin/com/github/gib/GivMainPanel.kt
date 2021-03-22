@@ -17,7 +17,7 @@ class GivMainPanel : SimpleToolWindowPanel(true, true), Disposable {
     /**
      * Maybe change this to something else
      */
-    private val url = "https://youtube.com"
+    private val url = "https://duckduckgo.com/"
 
     init {
         initGivPanel()
